@@ -5,6 +5,21 @@ repo: keep-in-touch-upptime # The name of this repository
 sites:
   - name: keepintouch.me
     url: 	https://keep-in-touch.me
+
+  # - name: www.keepintouch.me
+  #   url: 	https://www.keep-in-touch.me:3000
+  # - name: pro-be.keepintouch.me
+  #   url: 	http://pro-be.keep-in-touch.me:3000
+  # - name: pro-db.keepintouch.me
+  #   url: 	https://pro-db.keep-in-touch.me:5432
+    
+  - name: dev-fe.keepintouch.me
+    url: 	http://dev-fe.keep-in-touch.me:3000
+  - name: dev-be.keepintouch.me
+    url: 	http://dev-be.keep-in-touch.me:3000
+  - name: dev-db.keepintouch.me
+    url: 	https://dev-db.keep-in-touch.me:5432
+    
   - name: Puddingcamp
     url: https://puddingcamp.com
   - name: Test Broken Site
