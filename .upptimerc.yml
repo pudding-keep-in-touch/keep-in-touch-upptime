@@ -14,11 +14,14 @@ sites:
   #   url: 	https://pro-db.keep-in-touch.me:5432
     
   - name: dev-fe.keepintouch.me
-    url: 	http://dev-fe.keep-in-touch.me:3000
+    url: 	http://dev-fe.keep-in-touch.me
+    port: 3000
   - name: dev-be.keepintouch.me
-    url: 	http://dev-be.keep-in-touch.me:3000
+    url: 	http://dev-be.keep-in-touch.me
+    port: 3000
   - name: dev-db.keepintouch.me
-    url: 	https://dev-db.keep-in-touch.me:5432
+    url: 	https://dev-db.keep-in-touch.me
+    port: 5432
     
   - name: Puddingcamp
     url: https://puddingcamp.com
