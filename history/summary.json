@@ -16,7 +16,7 @@
     "timeMonth": 217,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2024-09-19": 64,
+      "2024-09-19": 301,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
@@ -24,6 +24,64 @@
       "2024-09-14": 1440,
       "2024-09-13": 1440,
       "2024-09-12": 498
+    }
+  },
+  {
+    "name": "dev-fe.keepintouch.me",
+    "url": "http://dev-fe.keep-in-touch.me:3000",
+    "icon": "https://icons.duckduckgo.com/ip3/dev-fe.keep-in-touch.me.ico",
+    "slug": "dev-fe-keepintouch-me",
+    "status": "down",
+    "uptime": "7.59%",
+    "uptimeDay": "7.59%",
+    "uptimeWeek": "7.59%",
+    "uptimeMonth": "7.59%",
+    "uptimeYear": "7.59%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-09-19": 0
+    }
+  },
+  {
+    "name": "dev-be.keepintouch.me",
+    "url": "http://dev-be.keep-in-touch.me:3000",
+    "icon": "https://icons.duckduckgo.com/ip3/dev-be.keep-in-touch.me.ico",
+    "slug": "dev-be-keepintouch-me",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3677,
+    "timeDay": 3677,
+    "timeWeek": 3677,
+    "timeMonth": 3677,
+    "timeYear": 3677,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "dev-db.keepintouch.me",
+    "url": "https://dev-db.keep-in-touch.me:5432",
+    "icon": "https://icons.duckduckgo.com/ip3/dev-db.keep-in-touch.me.ico",
+    "slug": "dev-db-keepintouch-me",
+    "status": "down",
+    "uptime": "22.30%",
+    "uptimeDay": "22.30%",
+    "uptimeWeek": "22.30%",
+    "uptimeMonth": "22.30%",
+    "uptimeYear": "22.30%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-09-19": 0
     }
   },
   {
@@ -37,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 868,
-    "timeDay": 1081,
-    "timeWeek": 868,
-    "timeMonth": 868,
-    "timeYear": 868,
+    "time": 888,
+    "timeDay": 1062,
+    "timeWeek": 888,
+    "timeMonth": 888,
+    "timeYear": 888,
     "dailyMinutesDown": {}
   },
   {
