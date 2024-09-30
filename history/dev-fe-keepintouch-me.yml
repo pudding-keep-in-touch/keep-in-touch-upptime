@@ -1,7 +1,7 @@
 url: http://dev-fe.keep-in-touch.me
-status: up
-code: 200
-responseTime: 8441
-lastUpdated: 2024-09-30T10:09:44.940Z
+status: down
+code: 502
+responseTime: 1273
+lastUpdated: 2024-09-30T15:11:53.633Z
 startTime: 2024-09-19T05:00:30.244Z
 generator: Upptime <https://github.com/upptime/upptime>
