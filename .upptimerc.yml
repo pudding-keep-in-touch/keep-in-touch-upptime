@@ -4,7 +4,7 @@ repo: keep-in-touch-upptime # The name of this repository
 
 sites:
   - name: keepintouch.me
-    url: 	https://keep-in-touch.me
+    url: https://keep-in-touch.me
 
   # - name: www.keepintouch.me
   #   url: 	https://www.keep-in-touch.me:3000
@@ -14,14 +14,19 @@ sites:
   #   url: 	https://pro-db.keep-in-touch.me:5432
     
   - name: dev-fe.keepintouch.me
-    url: 	http://dev-fe.keep-in-touch.me
-    port: 3000
+    url: 	https://dev-fe.keep-in-touch.me
+    port: 443
+  - name: dev-fe-v2.keepintouch.me
+    url: 	https://dev-fe-v2.keep-in-touch.me
+    port: 80
+    check: "tcp-ping"
+    ipv6: true
   - name: dev-be.keepintouch.me
-    url: 	http://dev-be.keep-in-touch.me
-    port: 3000
+    url: 	https://dev-be.keep-in-touch.me
+    port: 443
   - name: dev-db.keepintouch.me
-    url: 	https://dev-db.keep-in-touch.me
-    port: 5432
+    url: 	http://dev-db.keep-in-touch.me
+    port: 5050
     
   - name: Puddingcamp
     url: https://puddingcamp.com
