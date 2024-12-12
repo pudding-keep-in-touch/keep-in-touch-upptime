@@ -13,16 +13,17 @@ sites:
   # - name: pro-db.keepintouch.me
   #   url: 	https://pro-db.keep-in-touch.me:5432
     
-  - name: dev-fe.keepintouch.me
-    url: 	https://dev-fe.keep-in-touch.me
+  - name:  dev-fe.keepintouch.me
+    url:  https://dev-fe.keep-in-touch.me
+    port:  443
+  - name:  dev-fe-v2.keepintouch.me
+    url:  https://dev-fe-v2.keep-in-touch.me
     port: 443
-  - name: dev-fe-v2.keepintouch.me
-    url: 	https://dev-fe-v2.keep-in-touch.me
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
   - name: dev-be.keepintouch.me
     url: 	https://dev-be.keep-in-touch.me
+    port: 443
+  - name: dev-be-v2.keepintouch.me
+    url: 	https://dev-be-v2.keep-in-touch.me
     port: 443
   - name: dev-db.keepintouch.me
     url: 	http://dev-db.keep-in-touch.me
